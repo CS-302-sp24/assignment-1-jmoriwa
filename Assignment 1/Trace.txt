@@ -1,0 +1,1066 @@
+#1 DEADLOCK
+DiningPhilosophers 5 2 3 4 4
+
+Philosopher 0 has thought for 2 units
+Philosopher 2 has thought for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 4 has thought for 2 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants right fork
+Philosopher 4 wants right fork
+Philosopher 2 wants right fork
+Philosopher 1 wants right fork
+Philosopher 0 wants right fork
+
+#2 One philosopher eats
+DiningPhilosophers 3 1 2 4 1
+
+Philosopher 0 has thought for 1 units
+Philosopher 2 has thought for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 3 units
+
+#3 Deadlock
+DiningPhilosophers 4 0 3 2 3
+
+Philosopher 1 has thought for 2 units
+Philosopher 3 has thought for 1 units
+Philosopher 0 has thought for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 3 wants right fork
+Philosopher 1 wants right fork
+Philosopher 0 wants right fork
+
+#4 Runs infinitely
+DiningPhilosophers 4 0 3 1 1
+
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought 830 times
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought 800 times
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 0 has thought for 2 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought 790 times
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought 850 times
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 2 has thought for 1 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 wants left fork
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought 840 times
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 1 has thought 810 times
+Philosopher 1 has thought for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 3 has eaten for 0 units
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought 860 times
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 1 units
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 2 has thought for 0 units
+Philosopher 0 has thought 800 times
+Philosopher 0 has thought for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought 820 times
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought 850 times
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 0 has thought for 1 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 3 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 3 has thought 870 times
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 0 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought 810 times
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought 830 times
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought 860 times
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 0 has thought for 1 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants left fork
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought 880 times
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 wants right fork
+Philosopher 1 has thought for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought 820 times
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought 840 times
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought 890 times
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 1 has thought for 2 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought 870 times
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 2 has thought for 2 units
+Philosopher 3 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 0 has thought for 2 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought 900 times
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 1 has thought for 1 units
+Philosopher 0 has eaten for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought 830 times
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 2 has thought for 1 units
+Philosopher 3 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought 850 times
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought 880 times
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 1 units
+Philosopher 1 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 2 has thought for 0 units
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 1 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 1 has thought for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought for 0 units
+Philosopher 3 wants left fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 1 units
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 3 has thought 910 times
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 2 units
+Philosopher 1 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 1 wants right fork
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 2 has thought for 0 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 3 has thought for 2 units
+Philosopher 2 has eaten for 0 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 0 has thought for 2 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+PS C:\Users\joemo\OneDrive\Documents\Spring 24\Software Engineering\assignment-1-jmoriwa\Assignment 1> Philosopher 0 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 0 has eaten for 0 units
+Philosopher 3 has thought for 1 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 1 has thought for 2 units
+Philosopher 0 has thought for 0 units
+Philosopher 3 has eaten for 0 units
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+Philosopher 2 wants left fork
+Philosopher 1 has thought for 0 units
+Philosopher 0 wants right fork
+Philosopher 0 wants left fork
+Philosopher 2 has eaten for 0 units
+Philosopher 0 has eaten for 0 units
+Philosopher 0 has thought 840 times
+Philosopher 1 wants left fork
+Philosopher 1 wants right fork
+Philosopher 1 has eaten for 0 units
+Philosopher 3 has thought for 2 units
+Philosopher 3 wants left fork
+Philosopher 3 wants right fork
+Philosopher 3 has eaten for 0 units
+Philosopher 2 has thought for 2 units
+Philosopher 2 wants right fork
+
